@@ -1,0 +1,1 @@
+# coc_kurdish.com
